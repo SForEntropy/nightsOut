@@ -1,0 +1,93 @@
+* {
+    background-color: #FF69B4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+#Navigation {
+    font-size: xx-large;
+}
+
+#Navigation a:hover {
+    font-style: italic;
+
+}
+
+
+img {
+    height: 300px;
+    width: 400px;
+    border-color: black;
+    border: solid;
+    border-width: 5px;
+    transition: all 1s;
+
+
+}
+
+img:hover {
+    height: 400px;
+    width: 500px;
+}
+
+
+
+iframe {
+    height: 198px;
+    width: 350px;
+    border-color: black;
+    border: solid;
+    border-width: 5px;
+
+
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.videos {
+    display: flex;
+    justify-content: space-around;
+}
+
+#Heading1 {
+    padding-top: 70px;
+}
+
+#openingParagraph {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#moon {
+    pointer-events: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+}
+
+#faceDownPhotos {
+    padding-top: 20px;
+}
+
+#theCallingPhotos {
+    padding-top: 20px;
+}
+
+#vooDooPhotos {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+a:hover {
+    font-style: italic;
+}
